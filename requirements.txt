@@ -1,0 +1,15 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+python-dotenv==1.0.1
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-openai==0.0.8
+langchain-text-splitters==0.0.1
+faiss-cpu==1.7.4
+pymupdf==1.24.3
+python-docx==1.1.0
+chardet==5.2.0
+aiofiles==23.2.1
+pydantic==2.6.1
+pydantic-settings==2.1.0
