@@ -1,0 +1,11 @@
+{
+  "name": "Test_1",
+  "description": "",
+  "created_at": "2026-04-22T17:22:50.247334",
+  "document_count": 1,
+  "total_chunks": 15,
+  "files": [
+    "Python 面试.txt"
+  ],
+  "updated_at": "2026-04-22T17:23:09.219230"
+}
